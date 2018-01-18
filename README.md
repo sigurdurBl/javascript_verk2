@@ -66,14 +66,18 @@ console.log(calcRectArea(5, 6));
 
 9.)
 x er undefined
+
 10.)
 aalert(foo) kemur first  og gefur til baka 8 svo kemur hin function og hún er undefined
+
 11.)
 hún verður undefined ef ekki er set var eða let
 12.)
 þessi funtion sendir alert til notanda með hello world
+
 13.)
 varible scope getur verið annaðhvort alþjóðlegt eða staðbundið svigrúm. Hnattræn breytur er breytur sem lýst er í meginmáli frumkóðans, 
 utan allra aðgerða, en staðbundin breytur er einn lýst innan líkama aðgerðar eða blokkar.
+
 14.)
 call stack er stafla gögn uppbygging sem geymir upplýsingar um virka subroutines tölvuforrit
