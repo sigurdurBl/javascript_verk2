@@ -8,7 +8,7 @@
 3.)
 
 4.)
- null er verkefni gildi. Það er hægt að úthluta breytu sem framsetning án gildis og 
+ null er gildi sem er hægt að úthluta breytu sem framsetning án gildis og 
  undefined er tegund sjálft (óskilgreint) en null er hlutur
  
  5.)
